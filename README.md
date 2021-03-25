@@ -5,17 +5,17 @@ The project was a first semester, final year group project done for an intro cou
 
 Run in order:
 
-group21_divide data
+divide data
 
-group21_train_logreg
+train_logreg
 
-group21_train_SVM
+train_SVM
 
-group21_train_nn
+train_nn
 
-group21_test
+test
 
-group21_demo
+demo
 
 Tashreeq Waggie did the logistic regression and SVM
 
