@@ -17,6 +17,8 @@ test
 
 demo
 
-Tashreeq Waggie did the logistic regression and SVM
+## Contributors
 
-Jared Cupido did neural network
+[Tashreeq Waggie]() did the logistic regression and SVM
+
+[Jared Cupido]() did neural network
