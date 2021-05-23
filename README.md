@@ -16,7 +16,8 @@ train_nn
 test
 
 demo
-
+## Road Map
+Need to update documentation
 ## Contributors
 
 [Tashreeq Waggie]() did the logistic regression and SVM
