@@ -1,6 +1,6 @@
 # Hand Shape Recognition
 ## Description - Hand Shape Recognition Using Hand Marker Tracking
-The Vicon motion capture camera system was used to capture 15 users performing 5 hand postures. The motion capture system consists of a network of intricate cameras. You can take a look at the setup below.
+The Vicon motion capture camera system was used to capture 15 users performing 5 hand postures. The motion capture system consists of a network of intricate cameras. 
 
 To be able to capture hand postures, the motion capture system requires users to attach specific markers to their hand. Markers were attached to a glove which users were able to wear. The system then uses these markers together with the system of intricate cameras to find and precisely locate the markers (on the hand) in space i.e. an X, Y and Z location for each marker.
 
@@ -32,11 +32,19 @@ Use the sklearn implementation of NNs. Use a three-layer NN with one input, one 
 
 Use the sklearn implementation of Logistic Regression. As you know, the machinery of Logistic Regression allows for a large number of different feature variations e.g. higher-order features and/or combination of features. 
 
+## File Run Order
+[Dividing Data (dividing_data.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/Dividing%20Data/dividing_data.ipynb)
 
-## Files
-## Run Order
-## Road Map
-Need to update documentation
+[Logistic Regression (train_logistic_regression.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/train_logistic_regression.ipynb)
+
+[Support Vector Machines (train_support_vector_machines.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/train_support_vector_machines.ipynb)
+
+[Nueral Network(train_neural_network.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/train_neural_network.ipynb)
+
+[Testing(testing.ipynb )](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/testing.ipynb)
+
+[Demo(demo.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/demo.ipynb)
+
 ## Contributors
 
 [Tashreeq Waggie]() - Logistic Regression , Support Vector Machines and Testing 
