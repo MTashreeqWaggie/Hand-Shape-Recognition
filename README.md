@@ -41,9 +41,9 @@ Use the sklearn implementation of Logistic Regression. As you know, the machiner
 
 [Nueral Network(train_neural_network.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/train_neural_network.ipynb)
 
-[Testing(testing.ipynb )](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/testing.ipynb)
+[Testing (testing.ipynb )](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/testing.ipynb)
 
-[Demo(demo.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/demo.ipynb)
+[Demo (demo.ipynb)](https://github.com/MTashreeqWaggie/Hand-Shape-Recognition/blob/main/demo.ipynb)
 
 ## Contributors
 
