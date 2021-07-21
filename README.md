@@ -1,5 +1,5 @@
 # Hand Shape Recognition
-## Description - Hand Shape Recognition Using Hand Marker Tracking
+## Description - [Hand Shape Recognition Using Hand Marker Tracking (Research Paper)](http://www2.latech.edu/~jkanno/datadescription-1.pdf)
 The Vicon motion capture camera system was used to capture 15 users performing 5 hand postures. The motion capture system consists of a network of intricate cameras. 
 
 To be able to capture hand postures, the motion capture system requires users to attach specific markers to their hand. Markers were attached to a glove which users were able to wear. The system then uses these markers together with the system of intricate cameras to find and precisely locate the markers (on the hand) in space i.e. an X, Y and Z location for each marker.
