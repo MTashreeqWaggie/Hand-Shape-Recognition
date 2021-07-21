@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning
 ## Description - [Hand Shape Recognition Using Hand Marker Tracking (Research Paper)](https://digitalcommons.latech.edu/cgi/viewcontent.cgi?article=1048&context=dissertations)
 The Vicon motion capture camera system was used to capture 15 users performing 5 hand postures. The motion capture system consists of a network of intricate cameras. 
 
