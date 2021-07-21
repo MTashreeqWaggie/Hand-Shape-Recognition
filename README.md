@@ -1,25 +1,13 @@
-# Hand-Shape-Recognition
-Machine Learning Group Project
+# Hand Shape Recognition
+## Description
 
-The project was a first semester, final year group project done for an intro course to machine learning and was based off of the Research Paper provided on this repository.
-
-Run in order:
-
-divide data
-
-train_logreg
-
-train_SVM
-
-train_nn
-
-test
-
-demo
+## Techniques
+## Files
+## Run Order
 ## Road Map
 Need to update documentation
 ## Contributors
 
-[Tashreeq Waggie]() did the logistic regression and SVM
+[Tashreeq Waggie]() - Logistic Regression , Support Vector Machines and Testing 
 
-[Jared Cupido]() did neural network
+[Jared Cupido]() - Dividing Data , Neural Networks and part of Demo
